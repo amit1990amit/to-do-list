@@ -1,1 +1,2 @@
-# to-do-list
+#  this is a to do list ther are to many files in the node modules to up load so it wont work if you down load the project to your computer. in this project iam using data bases so it will work on any computer iam adding a link to a place that it will work:
+https://mighty-mountain-37658.herokuapp.com/Enteryourname - you can change "EnterYourName" to the name you want then you can use your own personal list where you can add and erase task for your day. 
